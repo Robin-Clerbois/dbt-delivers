@@ -6,4 +6,7 @@
 
 
 
-[^1]: this was set up in vs code, first steps, ==That is so funny!== :joy:
+[^1]: this was set up in vs code, first steps, 
+
+==That is so funny!== 
+:joy:
